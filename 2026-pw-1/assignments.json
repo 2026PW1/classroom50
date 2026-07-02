@@ -7,6 +7,11 @@
       "mode": "individual",
       "autograder": "default",
       "feedback_pr": true,
+      "template": {
+        "owner": "3125000sato",
+        "repo": "phpkiso",
+        "branch": "main"
+      },
       "due": "2026-07-12T14:59:00Z",
       "due_meta": {
         "input": "2026-07-12T23:59:00",
