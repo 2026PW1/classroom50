@@ -1,0 +1,21 @@
+{
+  "schema": "classroom50/classroom/v1",
+  "name": "2026-プログラミングワークショップ-1",
+  "short_name": "2026-pw-1",
+  "term": "",
+  "org": "2026PW1",
+  "team": {
+    "id": 18298479,
+    "slug": "classroom50-2026-pw-1"
+  },
+  "teams": {
+    "instructor": {
+      "id": 18298480,
+      "slug": "classroom50-2026-pw-1-instructor"
+    },
+    "ta": {
+      "id": 18298481,
+      "slug": "classroom50-2026-pw-1-ta"
+    }
+  }
+}
