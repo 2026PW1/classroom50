@@ -19,6 +19,20 @@
         "offset": "+09:00",
         "source": "auto-detected"
       }
+    },
+    {
+      "slug": "php2",
+      "name": "php2",
+      "mode": "individual",
+      "autograder": "default",
+      "feedback_pr": true,
+      "due": "2026-07-31T11:20:00Z",
+      "due_meta": {
+        "input": "2026-07-31T20:20:00",
+        "zone": "Asia/Tokyo",
+        "offset": "+09:00",
+        "source": "auto-detected"
+      }
     }
   ]
 }
